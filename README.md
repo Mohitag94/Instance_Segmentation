@@ -6,6 +6,8 @@
 ## Project Overview
 This project implements instance segmentation on the COCO-2017 dataset, focusing specifically on four classes: cake, car, person, and dog. The implementation uses Mask R-CNN with a ResNet-50 backbone and Feature Pyramid Network (FPN) for accurate object detection and instance segmentation.
 
+- [📓 Colab Notebook](https://colab.research.google.com/github/yourusername/Instance_Segmentation/blob/main/coco_model_train.ipynb)
+
 ## Dataset
 The project uses a subset of the COCO-2017 dataset:
 - Training set: 300 images with annotations
