@@ -25,6 +25,7 @@ The dataset is organized in COCO format with JSON annotation files containing in
 ```
 Assignment1/
 ├── coco_model_train.ipynb      # Main training and evaluation notebook
+├── coco_eda.ipynb              # Main exploratory data analysis notebook
 ├── README.md                   # This file
 ├── RM_Segmentation_Assignment_dataset/
 │   ├── train-300/              # Training dataset
@@ -76,6 +77,7 @@ The implementation includes:
 1. Clone the repository
 2. Set up the environment with required dependencies
 3. Run the `coco_model_train.ipynb` notebook to train and evaluate the model
+4. Run the `coco_eda.ipynb` notebook to perform exploratory data analysis on dataset
 
 ## Results
 The model is evaluated on the validation set using standard COCO metrics:
