@@ -55,16 +55,20 @@ The implementation includes:
 5. Visualization tools for displaying predictions
 
 ## Requirements
-- Python 3.6+
-- PyTorch 1.7+
-- torchvision
-- pycocotools
-- numpy
-- matplotlib
-- seaborn
-- opencv-python (cv2)
-- PIL
-- tqdm
+- ipykernel==6.29.5
+- ipython==9.3.0
+- jupyter_client==8.6.3
+- jupyter_core==5.8.1
+- matplotlib==3.10.3
+- matplotlib-inline==0.1.7
+- opencv-python==4.11.0.86
+- pandas==2.3.0
+- pycocotools==2.0.10
+- seaborn==0.13.2
+- torch==2.7.1
+- torchaudio==2.7.1
+- torchvision==0.22.1
+- tqdm==4.67.1
 
 ## Usage
 1. Clone the repository
